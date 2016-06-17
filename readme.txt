@@ -9,4 +9,4 @@ xiugai
 2
 3
 switch dev
-Creating a new branch is quick & simple.
+after merge Creating a new branch is quick AND simple.
